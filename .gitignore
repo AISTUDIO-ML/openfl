@@ -3,7 +3,6 @@
 __pycache__
 /build
 /dist
-.vscode
 .ipynb_checkpoints
 venv/*
 .idea
@@ -14,3 +13,9 @@ venv/*
 *.crt
 *.key
 .eggs
+eggs/*
+*.pyi
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
